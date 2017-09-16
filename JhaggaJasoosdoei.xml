@@ -3,7 +3,7 @@
 <thumbnail>https://www.vpn-accounts.com/blog/wp-content/uploads/2013/10/premium.jpg</thumbnail>
 <fanart>http://www.dreamstreams.net/wp-content/uploads/2016/03/dreamstreams_logo_master.png</fanart>
 <link>http://Ignoreme</link>
-<externallink>http://faizuliptv.myonlineportal.org:8080/get.php?username=Richi&amp;password=Richi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara2.xml$$TSDOWNLOADER$$</externallink>
 </item>
 <regex>
 <name>makelist</name>
@@ -14,7 +14,7 @@
 <fanart>http://7-themes.com/data_images/out/28/6865909-world-map-wallpaper.jpg</fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,</expres>
-<page>http://faizuliptv.myonlineportal.org:8080/get.php?username=Richi&amp;password=Richi&amp;type=m3u</page>
+<page>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara2.xml</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
