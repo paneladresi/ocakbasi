@@ -1,0 +1,62 @@
+<item>
+<title>[B][I][COLOR deepskyblue]AM IPTV (Valid Unlimited)[/COLOR][/I][/B]</title>
+<thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara1.xml$$TSDOWNLOADER$$</externallink>
+</item>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=ZsaMediaIPTV[makelist.param1]</link>
+    <thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,</expres>
+<page>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara1.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]IPTV My Online Portal (Valid 23-08-2018)[/COLOR][/I][/B]</title>
+<thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara2.xml$$TSDOWNLOADER$$</externallink>
+</item>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=ZsaMediaIPTV[makelist.param1]</link>
+    <thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,</expres>
+<page>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara2.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][I][COLOR deepskyblue]My Easy TV (valid Unlimited)[/COLOR][/I][/B]</title>
+<thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara3.xml$$TSDOWNLOADER$$</externallink>
+</item>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=ZsaMediaIPTV[makelist.param1]</link>
+    <thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,</expres>
+<page>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/rotibara3.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
