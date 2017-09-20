@@ -60,3 +60,9 @@
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
+
+<plugin>
+<name>[B][I][COLOR deepskyblue]Clear Cache[/COLOR][/I][/B]</name>
+<link>plugin.video.live.streamspro/?action=clearCache1</link>
+<thumbnail>https://www.tenorshare.com/images/topics/cleanup-iphone/clean-whatsapp.jpg</thumbnail>
+</plugin>
