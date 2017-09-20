@@ -61,9 +61,9 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR lime]Tv Shows and Movies [/COLOR] </title>
-<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
-<link>http://dl.funsaber.net/serial/</link>
-<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
-</item>
+<dir>
+<title>[B][I][COLOR deepskyblue]Tv Shows and Movies[/COLOR][/I][/B]</title>
+<thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<link>http://alphamediazone.com/data/index.php?dir=Movies2/</link>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+</dir>
