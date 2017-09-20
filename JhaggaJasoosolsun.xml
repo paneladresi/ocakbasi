@@ -62,8 +62,22 @@
 </item>
 
 <item>
-<title>[B][I][COLOR deepskyblue]Tv Shows and Movies[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]Movies 2017[/COLOR][/I][/B]</title>
 <thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
-<link>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/achabahutkhoob.xml</link>
 <fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+<linkhttps://raw.githubusercontent.com/paneladresi/ocakbasi/master/achabahutkhoob.xml</link>
+<externallink>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/achabahutkhoob.xml$$TSDOWNLOADER$$</externallink>
+</item>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=ZsaMediaIPTV[makelist.param1]</link>
+    <thumbnail>http://www.simpsite.nl/upload/137/869/Home/Test/icon.png</thumbnail>
+<fanart>http://www.simpsite.nl/upload/137/869/Home/Test/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,</expres>
+<page>https://raw.githubusercontent.com/paneladresi/ocakbasi/master/achabahutkhoob.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
 </item>
