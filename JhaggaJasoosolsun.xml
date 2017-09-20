@@ -61,8 +61,9 @@
 </regex>
 </item>
 
-<plugin>
-<name>[B][I][COLOR deepskyblue]Clear Cache[/COLOR][/I][/B]</name>
-<link>plugin.video.live.streamspro/?action=clearCache1</link>
-<thumbnail>https://www.tenorshare.com/images/topics/cleanup-iphone/clean-whatsapp.jpg</thumbnail>
-</plugin>
+<dir>
+<title>[COLOR lime]Tv Shows and Movies [/COLOR] </title>
+<thumbnail>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/icon.png</thumbnail>
+<link>http://alphamediazone.com/data/index.php?dir=Movies2/</link>
+<fanart>http://brettusbuilds.com/FTFA/INDEX%20IMAGES/fanart.jpg</fanart>
+</dir>
